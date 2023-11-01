@@ -1,0 +1,17 @@
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\cvextern.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\msvcp120.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\msvcr120.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DirectShowLib-2005.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\Bending Stage Controller.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Bending Stage Controller.exe.config
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Bending Stage Controller.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Bending Stage Controller.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\Bending Stage Controller.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\Bending Stage Controller.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\Bending Stage Controller.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form4.resources

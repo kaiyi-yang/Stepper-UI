@@ -1,0 +1,39 @@
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.ML.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.Util.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\ZedGraph.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.xml
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.Util.xml
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\cvextern.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\msvcp120.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\msvcr120.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\Users\nanoq NB\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\nanoq NB\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\cvextern.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\msvcp120.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\msvcr120.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\opencv_ffmpeg300_64.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form2.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form3.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\DirectShowLib-2005.dll

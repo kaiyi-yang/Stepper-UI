@@ -1,0 +1,388 @@
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DirectShowLib-2005.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csprojAssemblyReference.cache
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\a2717\source\repos\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\genea\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Visual C# project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\genea\OneDrive - g2.nctu.edu.tw\lab\Instrument dev\bending stage\電腦控制軟體與arduino (2021.08)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Downloads\Stepper motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Downloads\Bending stage\Stepper_motor\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\cvextern.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\msvcp120.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\msvcr120.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\opencv_ffmpeg300_64.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe.config
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Bending Stage Controller.pdb
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\ZedGraph.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\ZedGraph.xml
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.AssemblyReference.cache
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\BendingStageController.Properties.Resources.resources
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.GenerateResource.cache
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CoreCompileInputs.cache
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.csproj.CopyComplete
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.exe
+C:\Users\YANG\Desktop\Stepper_UI\WindowsFormsApplication1\obj\Debug\Bending Stage Controller.pdb
